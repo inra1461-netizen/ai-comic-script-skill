@@ -1,4 +1,4 @@
-\# AI漫剧创作 Skill v7.0
+\# AI漫剧创作 Skill v1.0
 
 
 
